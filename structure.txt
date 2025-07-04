@@ -1,0 +1,19 @@
+.
+├── main.ps1                   # Point d'entrée principal, assemble tous les modules
+├── README.md                  # Ce fichier
+├── LICENSE                    # Fichier de licence
+├── structure.txt              # Description de la structure du projet
+├── images/
+│   └── intro.png              # Capture d'écran principale de l'application
+│   └── import.png             # Capture d'écran de l'onglet Import CSV
+│   └── users.png              # Capture d'écran de l'onglet Gestion des Utilisateurs
+│   └── groups.png             # Capture d'écran de l'onglet Gestion des Groupes
+│   └── ou.png                 # Capture d'écran de l'onglet Gestion des OUs (NOUVEAU)
+├── librairies/
+│   └── lib.ps1                # Fonctions utilitaires communes et gestion de la localisation
+└── scripts/
+    ├── informations.ps1       # Contenu de l'onglet "Informations"
+    ├── importcsv.ps1          # Contenu de l'onglet "Import en Masse (CSV)"
+    ├── gestionuser.ps1        # Contenu de l'onglet "Gestion des Utilisateurs"
+    ├── gestiongroups.ps1      # Contenu de l'onglet "Gestion des Groupes"
+    └── gestionou.ps1          # Contenu de l'onglet "Gestion des OU"
