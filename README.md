@@ -1,9 +1,8 @@
 # Outil de Gestion Active Directory 🚀
 
 [![PowerShell](https://img.shields.io/badge/Made%20with-PowerShell-0078D4?style=for-the-badge&logo=powershell)](https://docs.microsoft.com/en-us/powershell/)
-[![Licence MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&color=brightgreen)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME?style=for-the-badge&color=blue)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/KiralyGeddon/Active-Directory-Administration-Tools?style=for-the-badge&color=brightgreen)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/KiralyGeddon/Active-Directory-Administration-Tools?style=for-the-badge&color=blue)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network/members)
 
 ## Table des matières
 
@@ -65,11 +64,11 @@ Suivez ces étapes pour démarrer l'outil.
 
 1.  **Clonez le dépôt** :
     ```bash
-    git clone [https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/KiralyGeddon/Active-Directory-Administration-Tools.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
     ```
 2.  **Naviguez vers le dossier du projet** :
     ```bash
-    cd YOUR_REPO_NAME
+    cd Active-Directory-Administration-Tools
     ```
 3.  **Vérifiez la politique d'exécution de PowerShell** :
     Assurez-vous que votre politique d'exécution PowerShell permet l'exécution de scripts locaux. Si ce n'est pas le cas, vous pouvez la définir temporairement :
