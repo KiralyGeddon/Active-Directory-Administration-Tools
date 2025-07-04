@@ -1,8 +1,8 @@
 # Outil de Gestion Active Directory 🚀
 
 [![PowerShell](https://img.shields.io/badge/Made%20with-PowerShell-0078D4?style=for-the-badge&logo=powershell)](https://docs.microsoft.com/en-us/powershell/)
-[![GitHub Stars](https://img.shields.io/github/stars/KiralyGeddon/Active-Directory-Administration-Tools?style=for-the-badge&color=brightgreen)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/KiralyGeddon/Active-Directory-Administration-Tools?style=for-the-badge&color=blue)](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/network/members)
+[![GitHub Stars](https://img.shields.io/github/stars/KiralyGeddon/Active-Directory-Administration-Tools?style=for-the-badge&color=brightgreen)](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/KiralyGeddon/Active-Directory-Administration-Tools?style=for-the-badge&color=blue)](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/network/members)
 
 ## Table des matières
 
@@ -64,7 +64,7 @@ Suivez ces étapes pour démarrer l'outil.
 
 1.  **Clonez le dépôt** :
     ```bash
-    git clone [https://github.com/KiralyGeddon/Active-Directory-Administration-Tools.git](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME.git)
+    git clone [https://github.com/KiralyGeddon/Active-Directory-Administration-Tools.git](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools.git)
     ```
 2.  **Naviguez vers le dossier du projet** :
     ```bash
