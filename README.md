@@ -88,23 +88,23 @@ Pour lancer l'application, exécutez le script `main.ps1` en tant qu'administrat
 
 Voici quelques captures d'écran de l'application en action :
 
-**Écran Principal - Importation d'Utilisateurs via CSV**
+**Écran Principal - Importation d'Utilisateurs via CSV :**
 
 ![Ecran Principal](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/1.png)
 
-**Gestion des Utilisateurs**
+**Gestion des Utilisateurs :**
 
 ![Gestion des Utilisateurs](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/2.png)
 
-**Gestion des Groupes**
+**Gestion des Groupes :**
 
 ![Gestion des Groupes](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/3.png)
 
-**Gestion des Unités d'Organisation (OU)**
+**Gestion des Unités d'Organisation (OU) :**
 
 ![Gestion des Unités d'Organisation (OU)](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/4.png)
 
-**Informations de mise à jour**
+**Informations de mise à jour :**
 
 ![Informations de mise à jour](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/5.png)
 
@@ -120,7 +120,7 @@ Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration,
 ## 📧 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à contacter Kiraly Geddon.
-*	GitHub : [![https://github.com/KiralyGeddon]](Kiraly Geddon)
+*	GitHub : [Kiraly Geddon](https://github.com/KiralyGeddon)
 
 ## 🙏 Remerciements
 
