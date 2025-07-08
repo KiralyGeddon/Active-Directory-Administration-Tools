@@ -90,22 +90,22 @@ Voici quelques captures d'écran de l'application en action :
 
 **Écran Principal - Importation d'Utilisateurs via CSV**
 
-![[Ecran Principal](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/1.png)]
+![Ecran Principal](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/1.png)
 **Gestion des Utilisateurs**
 
 
-![[Gestion des Utilisateurs](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/2.png)]
+![Gestion des Utilisateurs](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/2.png)
 
 **Gestion des Groupes**
 
-![[Gestion des Groupes](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/3.png)]
+![Gestion des Groupes](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/3.png)
 
 **Gestion des Unités d'Organisation (OU)**
 
-![[Gestion des Unités d'Organisation (OU)](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/4.png)]
+![Gestion des Unités d'Organisation (OU)](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/4.png)
 **Informations de mise à jour**
 
-![[Informations de mise à jour](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/5.png)]
+![Informations de mise à jour](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools/blob/main/images/5.png)
 
 ## 🤝 Contribuer
 
