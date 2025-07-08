@@ -60,9 +60,15 @@ Suivez ces étapes pour démarrer l'outil.
 
 ### Installation
 
+0. **En cas de soucis**
+
+```bash
+winget install --id Git.Git -e --source winget
+```
+
 1.  **Clonez le dépôt** :
     ```bash
-    git clone [https://github.com/KiralyGeddon/Active-Directory-Administration-Tools.git](https://github.com/KiralyGeddon/Active-Directory-Administration-Tools.git)
+    git clone https://github.com/KiralyGeddon/Active-Directory-Administration-Tools
     ```
 2.  **Naviguez vers le dossier du projet** :
     ```bash
