@@ -120,7 +120,7 @@ Les contributions sont les bienvenues ! Si vous avez des idées d'amélioration,
 ## 📧 Contact
 
 Pour toute question ou suggestion, n'hésitez pas à contacter Kiraly Geddon.
-*	GitHub : [https://github.com/KiralyGeddon](Kiraly Geddon)
+*	GitHub : [![https://github.com/KiralyGeddon]](Kiraly Geddon)
 
 ## 🙏 Remerciements
 
